@@ -1,0 +1,6 @@
+MATTOS_RECOVERY_TOKEN:
+- Usuário: Mattos (Padrão Matrix Elite Verde/Preto)
+- Infra: Google Colab, 4GB RAM, pCloud-FMC2/Xteste.
+- Projeto concluído: MyJDownloader Core Híbrido.
+- Ajuste Crítico Realizado: Alteração de caminhos ocultos (/root/.JDownloader/) para caminhos visíveis e funcionais (/content/jdownloader/) com pasta de salvamento customizada e visível na lateral esquerda do Colab.
+- Objetivo Atual: Iniciar o planejamento e montagem do PROJETO 02 do zero em um caderno limpo. Puxe o padrão visual e a bagagem de calibração anterior. Ready for command.
